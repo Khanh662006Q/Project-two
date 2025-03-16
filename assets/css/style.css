@@ -1,0 +1,9 @@
+:root {
+  --font-primary: "Sora", sans-serif;
+  --font-secondary: "Open Sans", sans-serif;
+  --color-primary: rgb(46, 128, 206);
+  --color-secondary: rgb(16, 55, 92);
+}
+body {
+  font-family: var(--font-primary);
+}
